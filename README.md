@@ -6,7 +6,7 @@ A simple Streamlit app showing the GDP of different countries in the world.
 
 ### How to run it on your own machine
 
-1. Install the requirements
+1. Install the requirementsinstall 
 
    ```
    $ pip install -r requirements.txt
